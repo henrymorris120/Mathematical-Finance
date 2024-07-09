@@ -7,3 +7,5 @@ The paper here delves into options trading during earnings events, examining the
 
 The data used in the project on option prices, earning dates, etc was primarily downloaded from Wharton Research Data Services (WRDS),
 and then cleaned for the use of the project.
+
+In this directory also is my personal final exam for the class which demonstrates some of the topics covered in the class such as arbitrage-free pricing, binomial tree models, measure theory, Ito calculus, the Black-Scholes analysis, derivatives pricing, volatility modeling, and hedging.
